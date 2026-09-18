@@ -1,0 +1,54 @@
+# Next Milestone Team Tasks
+
+## Project
+Inventory Management and Online Shopping System
+
+## Team Responsibilities
+
+### Database Team
+
+Maddisan Harris
+- Analyze the data requirements for the system.
+- Identify the information that needs to be stored.
+- Identify the required database tables and fields.
+- Help plan the Products, Inventory, Customers, Orders, and Sales tables.
+
+Paul Aurele Rene
+- Design the relational database.
+- Identify primary keys and foreign keys.
+- Identify relationships between the tables.
+- Plan SQL queries needed to retrieve and manage information.
+
+### Website/UI Team
+
+Unknown at the moment
+- Plan the main website pages.
+- Design the website navigation.
+- Plan the online product catalog.
+- Identify the information customers should see for each product.
+
+Unknown at the moment
+- Plan the shopping cart and order process.
+- Plan the login and administrative pages.
+- Identify features needed by employees and administrators.
+- Help document the website interface.
+
+## All Team Members
+
+All team members will participate in:
+- Testing
+- Documentation
+- Troubleshooting
+- Team meetings
+- Final presentation
+
+## Project Tools
+
+### GitHub
+GitHub will be used to store project files and documentation and track project updates.
+
+### MySQL
+The team will use MySQL for our database
+
+### Microsoft Project
+Microsoft Project will be used to create and maintain the project Gantt chart.
