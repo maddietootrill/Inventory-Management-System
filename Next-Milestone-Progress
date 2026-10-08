@@ -1,0 +1,85 @@
+# Inventory Management and Online Shopping System
+
+## Project Progress and Next Milestone Tasks
+
+### Project Overview
+
+Our team is developing an Inventory Management and Online Shopping System. The project includes a website where customers can browse products and a MySQL database to manage product information, inventory, customers, orders, and sales.
+
+## Completed Work
+
+### Website Development
+
+* Created the initial website using JetBrains tools.
+* Developed the main website structure and pages.
+* Started organizing the product catalog and shopping features.
+
+### Database Development
+
+* Created the MySQL database.
+* Established the initial database structure.
+* Organized the data needed for product and inventory management.
+
+## Next Milestone Tasks
+
+### Database Team
+
+**Maddisan Harris**
+
+* Review database tables and fields.
+* Verify that the database stores all required information.
+* Test product and inventory data.
+* Help connect the database to the website.
+
+**Paul Aurele Rene**
+
+* Review primary keys and foreign keys.
+* Verify relationships between database tables.
+* Develop and test SQL queries.
+* Ensure data can be retrieved and updated correctly.
+
+### Website/UI Team
+
+**Damani Santiago and Remington Clyatt Woods**
+
+* Review website layout and navigation.
+* Improve the product catalog and product information pages.
+* Develop or improve shopping cart and checkout features.
+* Review login and administrative pages.
+* Help connect website features to the MySQL database.
+* Document the website interface.
+
+## Testing and Integration
+
+All team members will participate in:
+
+* Testing website functionality.
+* Checking product and inventory information.
+* Testing database queries and data updates.
+* Identifying and fixing errors.
+* Documenting completed work and issues.
+* Preparing for the final presentation.
+
+## Project Tools
+
+* **GitHub:** Store source code, documentation, and project updates.
+* **MySQL:** Store and manage project data.
+* **Microsoft Project:** Create and maintain the project Gantt chart.
+* **JetBrains:** Develop the website.
+
+## Next Milestone Goal
+
+The goal of the next milestone is to test the existing website and database, improve the main features, and work toward integrating the website with the database so the system can manage product and inventory information effectively.
+
+## Expected Deliverables
+
+* Updated website source code.
+* MySQL database schema and SQL files.
+* Updated project documentation.
+* Updated Gantt chart.
+* Website and database testing results.
+* Screenshots showing project progress.
+
+## Team Collaboration
+
+All team members will contribute to testing, documentation, troubleshooting, team meetings, and the final presentation. Project updates and files will be maintained in GitHub to track progress throughout development.
