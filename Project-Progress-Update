@@ -1,0 +1,106 @@
+# Inventory Management and Online Shopping System
+## Project Progress Update
+
+### Project Overview
+Our team is developing an Inventory Management and Online Shopping System. The purpose of this project is to create an online storefront where customers can browse products, create accounts, manage shopping carts, and place orders. MySQL will be used to store and manage the system's information.
+
+## Current Project Progress
+
+### 1. Website Development
+- Started developing the website using JetBrains.
+- Began creating the main website structure and pages.
+- Started working on the product catalog and shopping features.
+
+### 2. Database Development
+- Started developing the MySQL database.
+- Began organizing the database structure.
+- Identified the main tables needed for products, inventory, customers, orders, and sales.
+
+### 3. API Development
+- Prepared API endpoints for the online storefront.
+- Added routes for displaying and searching products.
+- Prepared product category endpoints.
+- Prepared customer registration and login endpoints.
+- Added customer profile management endpoints.
+- Prepared shopping cart functionality.
+- Added checkout and order management endpoints.
+- Prepared the API for hosting through Render.
+
+### 4. GitHub Documentation
+- Updated the repository with current project progress.
+- Added updated team responsibilities and milestone tasks.
+- Documented the API endpoints.
+- Continued organizing project files and development updates.
+
+## API Features
+
+| Feature | Description |
+|---|---|
+| Products | Display, search, and retrieve products |
+| Categories | Display product categories |
+| Customer Accounts | Register, log in, and manage profiles |
+| Shopping Cart | View, add, update, and remove products |
+| Checkout | Calculate checkout subtotal |
+| Orders | Place orders and view order history |
+
+**API Hosting Platform:** Render
+
+**API Base URL:** https://deli-mart-api.onrender.com
+
+*Note: API routes have been prepared and documented. Deployment and functionality still need to be verified. Payment processing is not included.*
+
+## Team Responsibilities
+
+### Database Team
+
+**Maddisan Harris**
+- Analyze database requirements.
+- Review database tables and fields.
+- Help organize product and inventory information.
+- Assist with database testing and integration.
+
+**Paul Aurele Rene**
+- Design the relational database.
+- Identify primary and foreign keys.
+- Establish relationships between tables.
+- Develop and test SQL queries.
+
+### Website/UI Team
+
+**Damani Santiago and Remington Clyatt Woods**
+- Develop the website layout and navigation.
+- Work on the product catalog.
+- Develop shopping cart and checkout features.
+- Work on customer login and administrative pages.
+- Help connect website features to the API.
+
+## Next Milestone Tasks
+
+- Continue website development.
+- Continue MySQL database development.
+- Work toward connecting the website, API, and database.
+- Test API endpoints and website functionality.
+- Improve shopping cart and customer account features.
+- Troubleshoot and correct errors.
+- Update project documentation and screenshots.
+- Continue maintaining the Microsoft Project Gantt chart.
+
+## Project Tools
+
+- **GitHub:** Project files, documentation, and progress tracking.
+- **MySQL:** Database development and data management.
+- **Microsoft Project:** Project scheduling and Gantt chart.
+- **JetBrains:** Website development.
+- **Render:** API hosting platform.
+
+## Next Milestone Goal
+
+Our next milestone is to continue developing the website, database, and API while working toward integrating all three components. We will focus on testing the system, improving its features, and making sure information can be properly managed between the website and database.
+
+## Team Collaboration
+
+All team members will participate in testing, documentation, troubleshooting, team meetings, and the final presentation. GitHub will continue to be used to organize project files and track development progress.
+
+---
+
+**Project Status:** Website development started, MySQL database development started, API endpoints prepared and documented, and GitHub repository updated.
